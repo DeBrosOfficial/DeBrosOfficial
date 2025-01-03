@@ -59,6 +59,12 @@
 
 ###
 
-<p align="left">Hello World!!</p>
+<p align="left">DeBros: Decentralized Brothers in Innovation
+
+DeBros is not just a team; it's a collective of like-minded "brothers" — developers, engineers, and researchers — united by a common vision to craft decentralized applications and solutions in the realms of blockchain, AI, and Web3. We believe in equality among us, collaborating without geographical boundaries or nationality, driven by a shared goal of equitable and decentralized provision of technology and applications.
+
+The DeBros concept is an invitation to collaboration, where individuals come together to turn ideas into reality within the decentralized tech landscape. Whether it's pioneering blockchain solutions, enhancing AI with ethical considerations, or exploring the vast possibilities of Web3, our aim is to make technology accessible and fair for all.
+
+If you're curious to learn more about how you can join this movement or explore our projects, connect with us on Telegram. Together, we're not just building technology; we're shaping the future of a decentralized world.</p>
 
 ###
