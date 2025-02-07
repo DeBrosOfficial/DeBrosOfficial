@@ -4,8 +4,9 @@ DeBros is not just a team; it's a collective of like-minded "brothers" — devel
 
 The DeBros concept is an invitation to collaboration, where individuals come together to turn ideas into reality within the decentralized tech landscape. Whether it's pioneering blockchain solutions, enhancing AI with ethical considerations, or exploring the vast possibilities of Web3, our aim is to make technology accessible and fair for all.
 
-If you're curious to learn more about how you can join this movement or explore our projects, connect with us on Telegram. Together, we're not just building technology; we're shaping the future of a decentralized world.
+If you're curious to learn more about how you can join this movement or explore our projects, connect with us on <a href="https://t.me/debrosportal" target="_blank">Telegram</a>. Together, we're not just building technology; we're shaping the future of a decentralized world.
 
+---
 ###
 
 <div align="center">
@@ -22,9 +23,5 @@ If you're curious to learn more about how you can join this movement or explore 
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo" />
   </a>
 </div>
-
-###
-
-
 
 ###
