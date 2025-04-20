@@ -1,3 +1,9 @@
+# Important Update: DeBros Has Moved! 
+
+All DeBros activity has moved from GitHub to our own space at https://git.debros.io/explore/repos. 
+
+Our GitHub repositories will remain but will no longer receive updates. Join us there!
+
 <h1 align="left">DeBros: Decentralized Brothers in Innovation</h1>
 
 DeBros is not just a team; it's a collective of like-minded "brothers" — developers, engineers, and researchers — united by a common vision to craft decentralized applications and solutions in the realms of blockchain, AI, and Web3. We believe in equality among us, collaborating without geographical boundaries or nationality, driven by a shared goal of equitable and decentralized provision of technology and applications.
