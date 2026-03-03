@@ -4,7 +4,7 @@ DeBros is not just a team; it's a collective of like-minded "brothers" — devel
 
 The DeBros concept is an invitation to collaboration, where individuals come together to turn ideas into reality within the decentralized tech landscape. Whether it's pioneering blockchain solutions, enhancing AI with ethical considerations, or exploring the vast possibilities of Web3, our aim is to make technology accessible and fair for all.
 
-We use self-hosted Git at <a href="https://git.debros.io" target="_blank">git.debros.io</a>, with the repositories being mirrors here on GitHub. As an exception, certain open-source repositories will remain here for now to facilitate easier contributions, with mirrors at <a href="https://git.debros.io" target="_blank">git.debros.io</a>. Our goal is full decentralization and transparency, always prioritizing accessibility for all developers.
+We use self-hosted Git at <a href="https://git.debros.io" target="_blank">git.debros.io</a>, with our <a href="https://github.com/debrosdao" target="_blank">GitHub organization</a> serving as a public mirror. Certain open-source repositories will remain on GitHub to facilitate easier contributions. Our goal is full decentralization and transparency, always prioritizing accessibility for all developers.
 
 If you're curious to learn more about how you can join this movement or explore our projects, connect with us on <a href="https://t.me/debrosportal" target="_blank">Telegram</a>. Together, we're not just building technology; we're shaping the future of a decentralized world.
 
